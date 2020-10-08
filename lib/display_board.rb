@@ -2,4 +2,5 @@
 # out the current state.
  def display_board(arg)
    puts "   |   |   "
+   puts "-----------"
  end
