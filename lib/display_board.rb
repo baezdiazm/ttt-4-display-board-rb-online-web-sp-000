@@ -3,7 +3,7 @@
  def display_board(arg)
    puts "   |   |   "
    puts "-----------"
-   puts "   |   |   "
+   puts "   | X |   "
    puts "-----------"
    puts "   |   |   "
  end
